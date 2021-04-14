@@ -1,6 +1,7 @@
 
 /*--------------------------------------------------------------
-# General
+Website: leo-script.github.io;
+# General 
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
@@ -419,13 +420,13 @@ section {
   border-radius: 25px;
 }
 .text-about {
-  font-family: 'Antonio', sans-serif;
+  font-family: 'Karantina', cursive;
   color: #149ddd;
   font-size: 20px;
 }
 
 .text-club {
-  font-family: 'Antonio', sans-serif;
+  font-family: 'Karantina', cursive;
   color: #2fc44f;
   font-size: 20px;
   padding-top: 20px;
@@ -437,7 +438,7 @@ section {
 }
 
 .profile-link {
-  font-family: 'Antonio', sans-serif;
+  font-family: 'Karantina', cursive;
   color: #FFFFFF;
   font-size: 18px;
 }
@@ -457,7 +458,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Karantina', cursive;
   color: #050d18;
 }
 
@@ -522,6 +523,7 @@ section {
   margin-bottom: 15px;
   font-size: 18px;
   width: 220px;
+  font-family: 'Karantina', cursive;
 }
 
 
@@ -531,17 +533,21 @@ section {
   margin-bottom: 15px;
   font-size: 18px;
   width: 300px;
+  font-family: 'Karantina', cursive;
 }
 .title2-text {
   margin-left: 127px;
   color: #343a40;
+  font-family: 'Karantina', cursive;
 }
 .services .title a {
   color: #343a40;
+  font-family: 'Karantina', cursive;
 }
 
 .services .title a:hover {
   color: #149ddd;
+  font-family: 'Karantina', cursive;
 }
 
 .services .description {
@@ -549,6 +555,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   width: 220px;
+  font-family: 'Karantina', cursive;
 }
 
 .services .description2 {
@@ -556,9 +563,12 @@ section {
   line-height: 24px;
   font-size: 14px;
   width: 220px;
+  font-family: 'Karantina', cursive;
 }
 
-
+.section-description {
+  font-family: 'Karantina', cursive;
+}
 .logos {
   padding-top: 50px;
   padding-left: 170px;
